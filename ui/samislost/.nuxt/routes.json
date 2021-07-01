@@ -1,0 +1,38 @@
+[
+  {
+    "name": "about",
+    "path": "/about",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/about.vue",
+    "chunkName": "pages/about"
+  },
+  {
+    "name": "createEntry",
+    "path": "/createEntry",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/createEntry/index.vue",
+    "chunkName": "pages/createEntry/index"
+  },
+  {
+    "name": "list",
+    "path": "/list",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/list/index.vue",
+    "chunkName": "pages/list/index"
+  },
+  {
+    "name": "map",
+    "path": "/map",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/map/index.vue",
+    "chunkName": "pages/map/index"
+  },
+  {
+    "name": "list-id",
+    "path": "/list/:id",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/list/_id/index.vue",
+    "chunkName": "pages/list/_id/index"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/Users/sra/proj/hes/csci-s71/agile/project/sam-is-lost/ui/samislost/pages/index.vue",
+    "chunkName": "pages/index"
+  }
+]

@@ -1,0 +1,25 @@
+{
+  "entry": "server.js",
+  "files": {
+    "components/logo.js": "components/logo.js",
+    "components/sighting.js": "components/sighting.js",
+    "pages/about.js": "pages/about.js",
+    "pages/createEntry/index.js": "pages/createEntry/index.js",
+    "pages/index.js": "pages/index.js",
+    "pages/list/_id/index.js": "pages/list/_id/index.js",
+    "pages/list/index.js": "pages/list/index.js",
+    "pages/map/index.js": "pages/map/index.js",
+    "server.js": "server.js"
+  },
+  "maps": {
+    "components/logo.js": "components/logo.js.map",
+    "components/sighting.js": "components/sighting.js.map",
+    "pages/about.js": "pages/about.js.map",
+    "pages/createEntry/index.js": "pages/createEntry/index.js.map",
+    "pages/index.js": "pages/index.js.map",
+    "pages/list/_id/index.js": "pages/list/_id/index.js.map",
+    "pages/list/index.js": "pages/list/index.js.map",
+    "pages/map/index.js": "pages/map/index.js.map",
+    "server.js": "server.js.map"
+  }
+}
