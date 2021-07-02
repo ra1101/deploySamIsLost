@@ -1,5 +1,6 @@
 <template>
   <div>
+	Production
     <reportedSighting
       v-for="s in sightingsData"
       :key="s.id"
